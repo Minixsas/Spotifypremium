@@ -74,7 +74,7 @@ function Get-File
 
 Write-Host @'
 *****************
-@mrpond message:
+@Minixsas message:
    DontClose
 *****************
 '@
@@ -307,7 +307,7 @@ Write-Host 'Done.'
 
 Write-Host @'
 *****************
-@mrpond message:
+@Minixsas message:
 Done Have A Good Day
 ********************
 '@
